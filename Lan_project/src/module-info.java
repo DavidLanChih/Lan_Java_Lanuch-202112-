@@ -1,0 +1,2 @@
+module Lan_project {
+}
