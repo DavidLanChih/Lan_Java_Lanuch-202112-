@@ -1,6 +1,5 @@
-INDEX VERSION 1.131+D:\Lan_Java_Lanuch (202112ª©)\.metadata\.plugins\org.eclipse.jdt.core
-179011912.index
-1865797976.index
-1642175237.index
+INDEX VERSION 1.131+D:\Lan_Java_Lanuch-202112-\.metadata\.plugins\org.eclipse.jdt.core
 2271065789.index
+1865797976.index
+179011912.index
 1561642085.index
