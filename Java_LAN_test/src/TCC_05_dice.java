@@ -1,4 +1,4 @@
-public class learn_dice
+public class TCC_05_dice
 {
 	public static void main(String[] args) 
 	{

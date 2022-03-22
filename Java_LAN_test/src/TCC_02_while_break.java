@@ -1,4 +1,4 @@
-public class while_break
+public class TCC_02_while_break
 {
 	public static void main(String[] args)
 	{
@@ -8,7 +8,7 @@ public class while_break
 			x++;
 			if(x<0)
 			{
-				break;
+				break;			//¸õ¥X°j°é(µ²§ô°j°é)
 			}
 		}
 		x--;

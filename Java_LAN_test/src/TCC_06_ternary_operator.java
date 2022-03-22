@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class learn_ternary_operator					//三元運算子
+public class TCC_06_ternary_operator
 {
 	public static void main(String[] Args)
 	{

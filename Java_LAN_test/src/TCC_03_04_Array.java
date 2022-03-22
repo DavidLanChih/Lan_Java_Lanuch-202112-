@@ -1,4 +1,5 @@
-public class learn_02{
+public class TCC_03_04_Array
+{
 	public static void main(String[] args) {
 		
 		/*----------  宣告陣列方式一  ----------*/
