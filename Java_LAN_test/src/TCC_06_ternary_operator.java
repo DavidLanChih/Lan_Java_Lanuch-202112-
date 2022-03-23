@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class TCC_06_ternary_operator
 {
-	public static void main(String[] Args)
+	public static void main(String[] args)
 	{
 		Scanner scanner = new Scanner(System.in);
 		String Answer;

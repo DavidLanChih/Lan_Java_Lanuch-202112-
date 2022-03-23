@@ -1,6 +1,6 @@
 public class TCC_07_method
 {
-	public static void main(String[] Args) 
+	public static void main(String[] args) 
 	{
 		int Number = 8;
 		System.out.println(square(Number)); //套入方法1:將參數輸入進square方法，最後再用println顯示出方法的結果

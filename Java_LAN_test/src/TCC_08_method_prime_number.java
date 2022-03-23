@@ -1,6 +1,6 @@
 public class TCC_08_method_prime_number
 {
-	public static void main(String[] Args) 
+	public static void main(String[] args) 
 	{
 		int Limit = 100;
 		for (int a=2; a<Limit; a++)				//¿é¤J¼Æ¦rªº½d³ò
