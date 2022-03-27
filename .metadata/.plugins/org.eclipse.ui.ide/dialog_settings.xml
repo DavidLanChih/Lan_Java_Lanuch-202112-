@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Lan_Java_Lanuch-202112-"/>
 			<item value="D:\Lan_Java_Lanuch (202112版)\Java_LAN_test"/>
 			<item value="D:\Java_SE14_learn\CH03\Basic"/>
 			<item value="D:\Lan_Java_Lanuch-202112-\Lan_project"/>
