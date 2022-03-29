@@ -27,5 +27,12 @@ public class	sample_01_operator
 		N2 %= 2.3;             			//餘數不抓取低於0，所以返值原本被除數:1
 		System.out.println(N2);
 		
+		int a=1110;
+		int b=2;
+		int c=1110;
+		int d=2;
+		System.out.println(a<<=b);		// a = a << b  (1110 *2 *2)
+		System.out.println(c>>=d);		// c = c >> d  (1110 /2 /2)
+		
 	}
 }
