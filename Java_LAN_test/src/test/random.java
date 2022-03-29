@@ -7,6 +7,6 @@ public class random {
 		
 		A = Math.random();
 		System.out.println(A);
-		
+
 	}
 }
