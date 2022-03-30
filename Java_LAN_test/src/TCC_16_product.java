@@ -27,4 +27,5 @@ public class TCC_16_product 						//ª«¥ó«Ê¸Ë:§âÅÜ¼ÆÂÃ°_¨Ó¡A²z¥Ñ¦b©ó¹ï³o¨ÇÅÜ¼Æ¦³¨
 		System.out.println("name: "+name+", price: $"+ori_price*discount/10);
 	}
 	
+	
 }

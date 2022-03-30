@@ -19,6 +19,9 @@ public class buy_product
 		bbb.print_product();
 		
 		
+		
+		
+		
 	}
 	
 }
